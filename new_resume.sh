@@ -5,7 +5,7 @@ COMPANY=$1
 POSITION=$2
 TIMESTAMP=$(date +"%Y-%m-%d")
 LIBRARY="application_library"
-SRC="cv/AlecLowry_Master-CV.tex"
+SRC="main/AlecLowry_main.tex"
 
     # Make new directory
 new_dir_name="${TIMESTAMP}_${COMPANY}_${POSITION}"
